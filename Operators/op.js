@@ -81,3 +81,11 @@ console.log("Logical Oprtators ");
 let marks =60;
 const result = marks >40? "Pass" : "Fail";
 console.log(result);
+
+
+// template literal - back tick
+let Name = "Ishant raj "
+let Phone = 9576310383;
+let id = "0245CSE037";
+
+console.log(`Your Name is ${Name} and this is your Phone numaber ${Phone} and This is your Collage I'd ${id}`)
